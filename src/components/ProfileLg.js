@@ -2,7 +2,7 @@ import React from "react";
 import Typed from "react-typed";
 import { FaDownload, FaGithub, FaTwitter } from "react-icons/fa6"; // Correct the import path
 import profileImg from "../components/WhatsApp Image 2024-02-27 at 21.12.44_f2082f50.jpg";
-import pdf2 from "./PRAVEENKUMAR RESUME.pdf";
+import pdf2 from "./My Resume.pdf";
 import { FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { GrInstagram } from "react-icons/gr";
